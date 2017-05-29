@@ -1,0 +1,19 @@
+{
+    "name": "lionlight/oop",
+    "description": "proyexto demo curso OOP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jab",
+            "email": "jab@ll.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files":["src/helpers.php"],
+        "psr-4": {
+            "OOP\\": "src/"
+        }
+    }
+}

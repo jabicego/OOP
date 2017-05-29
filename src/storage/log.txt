@@ -1,0 +1,15 @@
+(2017-05-29 16:25:34)doggy TIENE ARMADURA BAD AGAIN MAGIC
+(2017-05-29 16:25:34)doggy TIENE ARMADURA BIG PLATA
+(2017-05-29 16:25:34)doggy avanza hacia el SOUTH
+(2017-05-29 16:25:34)Archer eclipse avanza hacia el ESTE
+(2017-05-29 16:25:34)Archer eclipse DISPARA FLECHA CON BALLESTA MAGICA A doggy
+(2017-05-29 16:25:34)doggy tiene 50 puntos
+(2017-05-29 16:25:34)Archer eclipse TIENE ARMADURA BIG PLATA
+(2017-05-29 16:25:34)doggy DISPARA FLECHA CON EL ARCO A Archer eclipse
+(2017-05-29 16:25:34)Archer eclipse tiene 93.333333333333 puntos
+(2017-05-29 16:25:34)doggy DISPARA FLECHA CON EL ARCO A Archer eclipse
+(2017-05-29 16:25:34)Archer eclipse tiene 86.666666666667 puntos
+(2017-05-29 16:25:34)doggy DISPARA FLECHA CON EL ARCO A Archer eclipse
+(2017-05-29 16:25:34)Archer eclipse tiene 80 puntos
+(2017-05-29 16:25:34)Archer eclipse DISPARA FLECHA CON EL ARCO A doggy
+(2017-05-29 16:25:34)doggy tiene 43.333333333333 puntos
